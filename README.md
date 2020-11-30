@@ -7,7 +7,7 @@ the model is trained with categorical cross entropy loss and adam optimizer
 i tried using hinge squared loss as described in the paper in the resources below but i didn't get an improvment
 you can download the model from here : https://drive.google.com/file/d/16_ZnW8ju_-f9PB3FX10Pye3-6wff200F/view?usp=sharing
 
-#vgg-face model :
+# vgg-face model :
 the model takes an (48,48,3) image and resize it to (197,197,3) image with a lambda layer, it's not an rgb image but rather the same image resized and multiplied three times,as th vgg-face model expects a three channel image,
 here i made 3 models, the first is a simple model with dense layers on top of the base model,
 you can download the model here : https://drive.google.com/file/d/1zjqIVSsvbAL4y5Gjpcjuv3m2GiJxxeza/view?usp=sharing
