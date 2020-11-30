@@ -19,12 +19,12 @@ also you can use this model : https://drive.google.com/file/d/1-1uNouljjFKtFUBG9
 and use it with an input of (197,17,3), i removed the lambda layer from it
 
 # the competition accuracy score:
-first  : 0.71161
-second : 0.69267
-third  : 0.68821
+### first  : 0.71161
+### second : 0.69267
+### third  : 0.68821
 
 # my scores :
-cnn model                  : 0.6336026787757874
-vgg_base transfer learning : 0.6525494456291199
-vgg_base fine tuning       : 0.707996666431427
-vgg_base 197 input         : 0.6868208646774292
+### cnn model                  : 0.6336026787757874
+### vgg_base transfer learning : 0.6525494456291199
+### vgg_base fine tuning       : 0.707996666431427
+### vgg_base 197 input         : 0.6868208646774292
