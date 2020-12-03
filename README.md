@@ -28,3 +28,8 @@ and use it with an input of (197,17,3), i removed the lambda layer from it
 ### vgg_base transfer learning : 0.6525494456291199
 ### vgg_base fine tuning       : 0.707996666431427
 ### vgg_base 197 input         : 0.6868208646774292
+
+# references :
+### https://cs231n.github.io/linear-classify/#loss
+### https://arxiv.org/pdf/1306.0239.pdf
+### https://www.researchgate.net/publication/243964130_Challenges_in_Representation_Learning_A_Report_on_Three_Machine_Learning_Contests
